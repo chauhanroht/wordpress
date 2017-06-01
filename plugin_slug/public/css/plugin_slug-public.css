@@ -1,0 +1,18 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.testclass p{ margin:0px !important; }
+
+.woocommerce-breadcrumb {
+    margin-bottom: 0px !important;
+}
+
+ table {
+ 	border-collapse: collapse;
+ }
+ 
+table, td, th {
+    text-align: center;
+}
